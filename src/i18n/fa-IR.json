@@ -1,0 +1,20 @@
+{
+    "init": "در حال بارکذاری ...",
+    "no-found-related": "%{link} مورد نظر یافت نشد",
+    "please-contact": "لطفاً برای شروع با %{user} تماس بگیرید",
+    "init-issue": "شروع صحبت",
+    "leave-a-comment": "پیام مورد نظر خود را بنویسید",
+    "preview": "پیش نمایش",
+    "edit": "ویرایش",
+    "comment": "نظر دادن",
+    "support-markdown": "از مارکداون پشتیبانی می شود",
+    "login-with-github": "با اکانت GitHub خود وارد شوید",
+    "first-comment-person": "اولین نفری باشید که پیام می نویسید",
+    "commented": "نظر ارسال شد",
+    "load-more": "بارگذاری بیشتر",
+    "counts": "%{counts} comment |||| %{counts} comments",
+    "sort-asc": "مرتب سازی صعودی",
+    "sort-desc": "مرتب سازی نزولی",
+    "logout": "خروج",
+    "anonymous": "ناشناس"
+}
